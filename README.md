@@ -21,6 +21,7 @@ Notebook: BODY FAT Prediction.ipynb
 Model file: bodyfatmodel.pkl (used in app.py)
 
 🛠 **Tech Stack**
+
 Python 3
 
 Pandas, NumPy, Matplotlib, Scikit-learn
@@ -30,6 +31,7 @@ Flask (for deployment)
 Pickle (for model serialization)
 
 🔮**Future Enhancements**
+
 Add input validation and better user interface
 
 Deploy on cloud platforms like Render or Heroku
@@ -37,9 +39,11 @@ Deploy on cloud platforms like Render or Heroku
 Improve model accuracy and feature scaling
 
 🤝**Contributing**
+
 Feel free to fork this repo, make improvements, and submit pull requests.
 
 📄 **License**
+
 This project is licensed under the MIT License.
 
 ## 🚀 How to Run
